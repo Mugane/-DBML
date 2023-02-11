@@ -1,2 +1,2 @@
-# -DBML
+# µDBML
 Microscopic Database Markdown Language
